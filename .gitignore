@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+.DS_Store
+
+data/raw/
+data/processed/
+results/
+
+*.root
+*.npy
+*.npz
+*.h5
+*.hdf5
